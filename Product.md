@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Product
+title: About The Product
 permalink: /product/
 ---
 

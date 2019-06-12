@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Product
-permalink: /product/
+title: About The Company
+permalink: /company/
 ---
 
 Some information about you!

@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-taskList : true
+taskList: true
 ---
 
 Some information about you!
@@ -14,7 +14,6 @@ Some information about you!
 - [ ] Harder
 - [ ] Last Longer
     - [ ] this is an incomplete item
-### Examples
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported;
 - [x] list syntax required (any unordered or ordered list supported);

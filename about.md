@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+taskList : true
 ---
 
 Some information about you!

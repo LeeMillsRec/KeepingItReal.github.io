@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-taskList: true
+task_List: true
 ---
 ### Setting
 
@@ -12,7 +12,7 @@ taskList: true
 
 
 Some information about you!
-
+jih
 ### More Information
 ### Check Box Test
 

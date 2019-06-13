@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 taskList: true
 ---
+### Setting
+
+    {
+        taskList : true
+    }
+
 
 Some information about you!
 

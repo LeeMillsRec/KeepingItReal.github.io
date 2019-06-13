@@ -25,7 +25,7 @@ A place to include any other types of information that you'd like to include abo
 <button type="button" class="btn btn-primary btn-sm">Small</button>
 <button type="button" class="btn btn-primary btn-xs">XSmall</button>
 
-
+<button class="btn btn-primary">PressMe</button>
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)

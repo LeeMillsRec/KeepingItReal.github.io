@@ -9,9 +9,9 @@ Some information about you!
 ### More Information
 ### Check Box Test
 
-- [] Bigger
-- [] Harder
-- [] Last Longer
+- [ ] Bigger
+- [ ] Harder
+- [ ] Last Longer
 
 
 ### Contact me

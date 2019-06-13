@@ -8,16 +8,7 @@ permalink: /product/
 Some information about you!
 
 ### More Information
- .button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
+
 
 A place to include any other types of information that you'd like to include about the product.
  <button type="button" class="btn">Basic</button>
